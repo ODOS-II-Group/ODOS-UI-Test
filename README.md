@@ -2,9 +2,11 @@
 
 ## Run Test
 
-Under folder ODOSII-API, start the app with ./gradlew
+Under folder ODOSII-API, start the app with:
 
-Under serenity-ui-test run:
+    ./gradlew
+
+Under serenity-ui-test folder run:
 
     ./gradlew test aggregate
 
